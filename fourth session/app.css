@@ -1,0 +1,25 @@
+h1{
+    color: blue;
+    font-size: 2em;
+}
+
+.pro{
+    color: rgb(107, 107, 245);
+}
+h3{
+    color: blueviolet;
+}
+#menu a{
+    color: chartreuse;
+    font-size: 16px;
+}
+ul li:nth-child(1){
+    color: blueviolet;
+}
+ul li:nth-child(2){
+    color: rgb(183, 135, 228);
+}
+ul li:nth-child(3){
+    color: rgb(125, 120, 129);
+}
+
