@@ -1,0 +1,50 @@
+body{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h1{
+    color: blue;
+    font-size: 2em;
+}
+
+.pro{
+    color: rgb(107, 107, 245);
+}
+h3{
+    color: blueviolet;
+}
+#menu a{
+    color: chartreuse;
+    font-size: 16px;
+}
+ul li:nth-child(1){
+    color: blueviolet;
+}
+ul li:nth-child(2){
+    color: rgb(183, 135, 228);
+}
+ul li:nth-child(3){
+    color: rgb(125, 120, 129);
+}
+p{
+    font-weight: bold;
+    font-style: italic;
+    position: relative;
+    font-size: medium;
+    bottom: 2px;
+}
+p b{
+    text-decoration: underline;
+    color: blue;
+}
+label{
+    line-height: 30px;
+}
+#email{
+    width: 233px;
+}
+#submit{
+    border: 1px solid black;
+    /* margin: 5px 10px 15px 20px;
+    padding: 5px 10px 15px 20px; */
+    border-radius: 5px;
+}
